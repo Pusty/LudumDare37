@@ -1,0 +1,13 @@
+[
+    {
+        "name": "test",
+        "textures": [
+			"test0",
+			"test1"
+		],
+        "times": [
+			10,
+			10
+		]
+    }
+]

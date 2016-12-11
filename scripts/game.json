@@ -1,0 +1,21 @@
+{
+    "name": "A Fox's Room",
+    "icon": "resources/icon.png",
+    "debug": false,
+	"save": false,
+	"world": "room",
+	"text": [
+		""
+	],
+	"variables": {
+		"dial": 0,
+		"left": 0,
+		"right": 0,
+		"medium": 0,
+		"lvl_1": 0,
+		"lvl_2": -1,
+		"lvl_3": -1,
+		"lvl_4": -1,
+		"done": 0
+	}
+}

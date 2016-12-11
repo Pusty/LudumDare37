@@ -1,0 +1,4 @@
+; Level 1 = Picture and Carpet same direction
+; Level 2 = Couch next to flowerpot then interact with green food on the table
+; Level 3 = Change Flower to Bush, open a wooden thingy and then interact with plant
+; Level 4 = interact with mirror -> leave room

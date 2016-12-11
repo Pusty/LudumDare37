@@ -1,0 +1,21 @@
+Brainstorming One Room
+======================
+
+	-	Escape
+	-	Small Person / Big Room
+	-	Very Small Creature Growing
+	-	Chatroom
+	
+-> [A Fox's] Room
+
+-> order books
+-> cuts plants
+-> spin image
+-> weird mirror image gives general feedback
+-> pressing space in front of object says if "you" are OK with it
+-> moving couch
+-> spinning chair/table
+-> spinning carpet
+
+-> something like LEFT LEFT RIGHT RIGHT LEFT RIGHT LEFT RIGHT RIGHT -> finished
+	
