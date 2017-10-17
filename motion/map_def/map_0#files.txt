@@ -1,3 +1,0 @@
-C:\Users\Hertha\workspace\LudumDare37\motion\map_def\map_0#tiles.png
-C:\Users\Hertha\workspace\LudumDare37\motion\map_def\map_0.tlc
-C:\Users\Hertha\workspace\LudumDare37\motion\map_def\map_0#map001.txm
