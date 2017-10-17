@@ -23,8 +23,8 @@ Made using [libGDX](https://libgdx.badlogicgames.com/) and a self written game e
 
 ![Score](/readme/ld37.png)
 
-![Screenshot1](/readme/LudumDare37_0.png)
-![Screenshot2](/readme/LudumDare37_1.png)
+![Screenshot1](/readme/LudumDare37_0.PNG)
+![Screenshot2](/readme/LudumDare37_1.PNG)
 
 #### Gameplay:
 "[![LD37 Gameplay](https://img.youtube.com/vi/P8eVGz4mVJQ/0.jpg)](https://www.youtube.com/watch?v=P8eVGz4mVJQ)"
